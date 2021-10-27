@@ -1,0 +1,5 @@
+﻿  lab1.cpp
+D:\Универ Валера\ASD\lab1\lab1.cpp(339,15): warning C4101: min_idx: неиспользованная локальная переменная
+D:\Универ Валера\ASD\lab1\lab1.cpp(421,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Универ Валера\ASD\lab1\lab1.cpp(424,26): warning C4018: <: несоответствие типов со знаком и без знака
+  lab1.vcxproj -> D:\Универ Валера\ASD\lab1\Debug\lab1.exe
